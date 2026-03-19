@@ -100,5 +100,7 @@ Email Sender Bot Done!
 
 ## Author
 Name    : Ponagani Harshini
+
 Program : Syntecxhub Python Programming Internship
+
 Project : Project 3 - Email Sender Bot
